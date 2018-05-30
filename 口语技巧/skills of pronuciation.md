@@ -17,3 +17,13 @@
 
 ## ps
 - 辅音：除元音之外的其他字母
+
+## 高低变换
+### 重读
+- 实义词重度，尤其是自己想要表达意思的单词
+- 反对词稍微重读shouldn't can't
+### 略读
+- of
+- can
+### 例子
+One way of becoming **famous** these days is making unique **content** in the form of **videos**.

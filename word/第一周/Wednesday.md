@@ -1,0 +1,2 @@
+- showcase 展示（才华、本领等）
+- singing, acting or telling jokes. 一些本事
