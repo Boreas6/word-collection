@@ -12,6 +12,7 @@
 - As soon - as
 - met - each other
 - took - an
+- When my father had - a heart - attack - at - a young age
 ## 略读
 - As - soon as as读a
 
