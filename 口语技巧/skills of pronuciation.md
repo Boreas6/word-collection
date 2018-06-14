@@ -8,6 +8,7 @@
 - /p/, /b/, /t/, /d/, /k/, /g/是6个爆破音
 - 爆破音后面跟上大部分辅音，失去爆破，留住位置不发声
 -  had a sof**t** spo**t**
+- regardless内部d失去爆破
 ### 辅音加元音连读
 - As soon - as
 - met - each other
